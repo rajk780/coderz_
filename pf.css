@@ -12,7 +12,7 @@
     background-color: #629bb4;
     height: 65px;
     width: 100%;
-    position: fixed;
+    position: absolute;
     box-shadow: 0px 2px 5px rgba(22, 41, 49, 0.753);
     
 }
